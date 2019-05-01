@@ -23,7 +23,11 @@
   "author": "katarzyna-dasilva",
   "browserslist": [],
   "license": "",
-  "dependencies": {},
+  "dependencies": {
+    "colors": "^1.3.3",
+    "formidable": "^1.2.1",
+    "stat-mode": "^0.3.0"
+  },
   "devDependencies": {
     "autoprefixer-cli": "^1.0.0",
     "browser-sync": "^2.26.3",
