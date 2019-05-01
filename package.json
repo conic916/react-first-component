@@ -2,7 +2,7 @@
   "name": "react",
   "version": "1.0.0",
   "description": "learning to react",
-  "main": "index.html",
+  "main": "index.js",
   "scripts": {
     "test": "npm-run-all test:*",
     "test:html": "globstar nu-html-checker *.html",
